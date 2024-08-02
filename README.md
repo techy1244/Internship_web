@@ -20,4 +20,4 @@ The Doctor Appointment System is a web-based application developed to streamline
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/doctor-appointment-system.git
+   git clone https://github.com/tecy1244/doctor-appointment-system.git
